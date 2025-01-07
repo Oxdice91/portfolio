@@ -1,9 +1,9 @@
 # shealtielanz ~ Audit Portfolio 
 - [About shealtielanz](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
-- [Contributions to the Web3 Space]()
-- [Competitive Audits]()
-- [Private Audits]()
-- [Everything Immunefi]()
+- [Contributions to the Web3 Space](https://github.com/shealtielanz/audits/blob/main/README.md#contributions-to-the-web3-space)
+- [Competitive Audits](https://github.com/shealtielanz/audits/blob/main/README.md#competitive-audits)
+- [Private Audits](https://github.com/shealtielanz/audits/blob/main/README.md#private-audits)
+- [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
 
 # About shealtielanz
 shealtielanz is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) et cetera, He is proficient in SwayLang, Solidity & Rust.
