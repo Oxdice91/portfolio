@@ -63,6 +63,3 @@ Future-proof zkEVM on the mission to scale freedom for all.
 | `SwayLend Frontend` | Swaylend is a leading lending protocol on the Fuel network, This was for the front end | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/swaylend-frontend-iop/?utm_source=explore_results) | Soon | 1st Position |
 | `Fluid Protocol` | Fluid Protocol is an over-collateralized, decentralized borrowing platform specifically built for Fuel Network | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/iop-fluid-protocol/?utm_source=explore_results) | $2,921 | 6th Position |
 
-
-
-https://x.com/ShieldifySec/status/1788133361917034993
