@@ -16,7 +16,7 @@ For private audit or consulting requests please reach out to me via:
 - Discord `@shealtielanz`
 # Contributions to the Web3 Space
 - [Flash_Sync](https://github.com/shealtielanz/Flash_Sync) ~ Vault Powered by the novel Flash Loan Predicates.
-- [Simply-Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) ~ Finds Bugs in Sway Smart Contracts to build you Rust & Sway Skills.
+- [Simply-Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) ~ Finds Bugs in Sway Smart Contracts to build your Rust & Sway Skills.
 # Competitive Audits
 | Contest | Description | Leaderboard |
 |-----:|-----|-----|
