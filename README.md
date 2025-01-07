@@ -1,5 +1,5 @@
 # shealtielanz ~ Audit Portfolio 
-- [About shealtielanz]()
+- [About shealtielanz](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
 - [Contributions to the Web3 Space]()
 - [Competitive Audits]()
 - [Private Audits]()
