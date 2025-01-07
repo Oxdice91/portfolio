@@ -11,9 +11,9 @@ shealtielanz is an upcoming and well-profounded Security Researcher, winning and
 He is well known for his Sway and Rust contributions, creating [Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) to onboard new Security Researchers to the Fuel Blockchain, and his novel Invention of the [Flash Loan Predicate](https://github.com/shealtielanz/Flash_Sync) Used in the Fuel BlockChain.
 
 For private audit or consulting requests please reach out to me via:
-- Twitter [@shealtielanz]()
-- Telegram [@Shealtielanz]()
-- Discord [@shealtielanz]()
+- Twitter `@shealtielanz`
+- Telegram `@Shealtielanz`
+- Discord `@shealtielanz`
 # Contributions to the Web3 Space
 - [Flash_Sync](https://github.com/shealtielanz/Flash_Sync) ~ Vault Powered by the novel Flash Loan Predicates.
 - [Simply-Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) ~ Finds Bugs in Sway Smart Contracts to build you Rust & Sway Skills.
@@ -32,11 +32,14 @@ For private audit or consulting requests please reach out to me via:
 | `Frankencoin ~ Code4rena` | A decentralized and fully collateralized stablecoin. | [Link](https://code4rena.com/audits/2023-04-frankencoin) |
 | `Iron Bank ~ Sherlock` | Iron Bank is a decentralized lending platform focused on capital efficiency allowing protocols and individuals to supply and borrow cryptoassets. | [Link](https://audits.sherlock.xyz/contests/84) |
 | `DODO V3 ~ Sherlock` | A leveraged market-making solution to minimize IL and improve on liquidity management. The solution provides yield for retail LPs, higher profits for expert LPs, and better liquidity for traders. | [Link](https://audits.sherlock.xyz/contests/89?filter=results) |
+| `zkSync era ~ Code4rena` | Future-proof zkEVM on the mission to scale freedom for all. | [Link](https://code4rena.com/audits/2023-10-zksync-era) |
+| `Wise Lending ~ Code4rena` | Decentralized liquidity market that allows users to supply crypto assets and start earning a variable APY from borrowers. | [Link](https://code4rena.com/audits/2024-02-wise-lending) |
+| `Smart Wallet ~ Code4rena` | Smart Wallet from Coinbase Wallet. | [Link](https://code4rena.com/audits/2024-03-smart-wallet) |
 
 
 
 
-
+Future-proof zkEVM on the mission to scale freedom for all.
 # Private Audits
 
 | Contest | Description | Lang ~ EcoSystem | Report |
