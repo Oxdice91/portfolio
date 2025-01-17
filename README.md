@@ -59,6 +59,6 @@ For private audit or consulting requests please reach out to me via:
 | Contest | Description | Lang ~ EcoSystem | Report | Awards | Ranking |
 |-----:|----|-----|-----|-----|-----|
 | `SwayLend` | Swaylend is a leading lending protocol on the Fuel network, It is a fork of Compound V3 | Rust/Sway ~ Fuel | [Link](https://immunefi.com/audit-competition/iop-swaylend/leaderboard/#top) | $20,383 | 1st Position |
-| `SwayLend Frontend` | Swaylend is a leading lending protocol on the Fuel network, This was for the front end | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/swaylend-frontend-iop/?utm_source=explore_results) | Soon | 1st Position |
+| `SwayLend Frontend` | Swaylend is a leading lending protocol on the Fuel network, This was for the front end | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/swaylend-frontend-iop/?utm_source=explore_results) | $2,000 | 1st Position |
 | `Fluid Protocol` | Fluid Protocol is an over-collateralized, decentralized borrowing platform specifically built for Fuel Network | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/iop-fluid-protocol/?utm_source=explore_results) | $2,921 | 6th Position |
 
