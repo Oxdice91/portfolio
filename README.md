@@ -11,7 +11,7 @@ shealtielanz is an upcoming and well-profounded Security Researcher, winning and
 He is well known for his Sway and Rust contributions, creating [Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) to onboard new Security Researchers to the Fuel Blockchain, and his novel Invention of the [Flash Loan Predicate](https://github.com/shealtielanz/Flash_Sync) Used in the Fuel BlockChain.
 
 For private audit or consulting requests please reach out to me via:
-- Twitter `@shealtielanz`
+- Twitter `@shealtielanzz`
 - Telegram `@Shealtielanz`
 - Discord `@shealtielanz`
 # Contributions to the Web3 Space
