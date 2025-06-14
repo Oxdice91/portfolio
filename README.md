@@ -6,11 +6,11 @@
 - [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
 
 # About shealtielanz
-shealtielanz is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/) et cetera, He is proficient in SwayLang, Solidity & Rust.
+shealtielanz is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/). He is proficient in Func, SwayLang, Solidity & Rust.
 
-He is well known for his Sway and Rust contributions, creating [Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) to onboard new Security Researchers to the Fuel Blockchain, and his novel Invention of the [Flash Loan Predicate](https://github.com/shealtielanz/Flash_Sync) Used in the Fuel BlockChain.
+He is well known for his Sway and Rust contributions, creating [Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) to onboard new Security Researchers to the Fuel Blockchain, and his novel Invention of the [Flash Loan Predicate](https://github.com/shealtielanz/Flash_Sync) used in the Fuel Blockchain.
 
-For private audit or consulting requests please reach out to me via:
+For private audit or consulting requests, please reach out to me via:
 - Twitter `@shealtielanzz`
 - Telegram `@Shealtielanz`
 - Discord `@shealtielanz`
@@ -27,7 +27,7 @@ For private audit or consulting requests please reach out to me via:
 | `MaiaDAO EcoSystem ~ Code4rena` | Efficient liquidity renting and management across chains with Curvenized Uniswap V3.| [Link](https://code4rena.com/audits/2023-05-maia-dao-ecosystem) |
 | `Noya ~ Code4rena` | NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. | [Link](https://code4rena.com/audits/2024-04-noya) |
 | `Chainlink Staking v0.2 ~ Code4rena` | A security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services. | [Link](https://code4rena.com/audits/2024-04-noya) |
-| `Notional Update ~ Sherlock` | Maximum Returns. Minimum Risk. Lend, borrow, and earn leveraged yield with DeFi's leading fixed rate lending protocol. | [Link](https://audits.sherlock.xyz/contests/119?filter=results) |
+| `Notional Update ~ Sherlock` | Maximum Returns. Minimum Risk. Lend, borrow, and earn leveraged yield with DeFi's leading fixed-rate lending protocol. | [Link](https://audits.sherlock.xyz/contests/119?filter=results) |
 | `RealWagmi ~ Sherlock` | Swap earn and provide liquidity on the leading decentralized protocol built on zkSync. Experience the future of decentralized finance with Wagmi. | [Link](https://audits.sherlock.xyz/contests/88?filter=results) |
 | `Frankencoin ~ Code4rena` | A decentralized and fully collateralized stablecoin. | [Link](https://code4rena.com/audits/2023-04-frankencoin) |
 | `Iron Bank ~ Sherlock` | Iron Bank is a decentralized lending platform focused on capital efficiency allowing protocols and individuals to supply and borrow cryptoassets. | [Link](https://audits.sherlock.xyz/contests/84) |
@@ -43,6 +43,7 @@ For private audit or consulting requests please reach out to me via:
 
 | Contest | Description | Lang ~ EcoSystem | Report |
 |-----:|----|-----|-----|
+| Airdrop | Scalable Airdrop System Audit Report | Func | [report](https://github.com/shealtielanz/audit-hubz) |
 | `GuardianAudits ~ PariFinance` | A new adaptive pricing framework for perpetual protocols using liquidity curves and on-chain oracles | Solidity | [Link](https://www.notion.so/guardianaudits/PariFi-Defender-Contest-Findings-ce42090f44ed4dd592f7cef2fd80a3d9?pvs=4) |
 | `Secure3 ~ ZeekNetwork` | NDA | Solana/Rust | NDA |
 | `Secure3 ~ DomiChain AI` | NDA | EVM/Rust | NDA |
@@ -51,14 +52,14 @@ For private audit or consulting requests please reach out to me via:
 | `Secure3 ~ Klydo` | NDA | Solidity | NDA |
 | `Secure3 ~ Mantle-cmETH` | NDA | Solidity | NDA |
 | `Secure3 ~ TossFun` | NDA | Solidity | NDA |
-| `Secure3 ~ AgniFinance` | NDA | S0lidity | NDA |
-
+| `Secure3 ~ AgniFinance` | NDA | Solidity | NDA |
 
 # Everything Immunefi
 
-| Contest | Description | Lang ~ EcoSystem | Report | Awards | Ranking |
+| Contest/BB | Description | Lang ~ EcoSystem | Report | Awards | Ranking |
 |-----:|----|-----|-----|-----|-----|
-| `SwayLend` | Swaylend is a leading lending protocol on the Fuel network, It is a fork of Compound V3 | Rust/Sway ~ Fuel | [Link](https://immunefi.com/audit-competition/iop-swaylend/leaderboard/#top) | $20,383 | 1st Position |
-| `SwayLend Frontend` | Swaylend is a leading lending protocol on the Fuel network, This was for the front end | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/swaylend-frontend-iop/?utm_source=explore_results) | $2,000 | 1st Position |
+| `Compound v3` | Compound is a protocol on the Ethereum blockchain that establishes money markets | Solidity | [Link](https://immunefi.com/bug-bounty/compoundfinance/information/) | $1,000 | - |
+| `SwayLend` | Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 | Rust/Sway ~ Fuel | [Link](https://immunefi.com/audit-competition/iop-swaylend/leaderboard/#top) | $20,383 | 1st Position |
+| `SwayLend Frontend` | Swaylend is a leading lending protocol on the Fuel network. This was for the front end | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/swaylend-frontend-iop/?utm_source=explore_results) | $2,000 | 1st Position |
 | `Fluid Protocol` | Fluid Protocol is an over-collateralized, decentralized borrowing platform specifically built for Fuel Network | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/iop-fluid-protocol/?utm_source=explore_results) | $2,921 | 6th Position |
 
