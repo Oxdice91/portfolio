@@ -45,6 +45,7 @@ For private audit or consulting requests, please reach out to me via:
 |-----:|----|-----|-----|
 | Airdrop | Scalable Airdrop System Audit Report | Func | [report](https://github.com/shealtielanz/audit-hubz) |
 | `GuardianAudits ~ PariFinance` | A new adaptive pricing framework for perpetual protocols using liquidity curves and on-chain oracles | Solidity | [Link](https://www.notion.so/guardianaudits/PariFi-Defender-Contest-Findings-ce42090f44ed4dd592f7cef2fd80a3d9?pvs=4) |
+| `ShieldifySec ~ Adrastea` | Unlocking the full potential of restaking on Solana through Liquid Restaking Tokens(LRT) built on top of Solayer. | Solana/Rust | [Link](https://github.com/shieldify-security/adrastea-audit/issues) |
 | `Secure3 ~ ZeekNetwork` | NDA | Solana/Rust | NDA |
 | `Secure3 ~ DomiChain AI` | NDA | EVM/Rust | NDA |
 | `Secure3 ~ Ender V1` | NDA | Solidity | NDA |
