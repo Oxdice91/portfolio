@@ -1,12 +1,12 @@
-# shealtielanz ~ Audit Portfolio 
-- [About shealtielanz](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
+# 0xdice ~ Audit Portfolio 
+- [About 0xdice](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
 - [Contributions to the Web3 Space](https://github.com/shealtielanz/audits/blob/main/README.md#contributions-to-the-web3-space)
 - [Competitive Audits](https://github.com/shealtielanz/audits/blob/main/README.md#competitive-audits)
 - [Private Audits](https://github.com/shealtielanz/audits/blob/main/README.md#private-audits)
 - [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
 
-# About shealtielanz
-shealtielanz is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/). He is proficient in Func, SwayLang, Solidity & Rust.
+# About 0xdice
+0xdice is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/). He is proficient in Func, SwayLang, Solidity & Rust.
 
 He is well known for his Sway and Rust contributions, creating [Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) to onboard new Security Researchers to the Fuel Blockchain, and his novel Invention of the [Flash Loan Predicate](https://github.com/shealtielanz/Flash_Sync) used in the Fuel Blockchain.
 
