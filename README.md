@@ -2,7 +2,7 @@
 - [About 0xdice](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
 - [Competitive Audits](https://github.com/shealtielanz/audits/blob/main/README.md#competitive-audits)
 - [Private Audits](https://github.com/shealtielanz/audits/blob/main/README.md#private-audits)
-- [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
+
 
 # About 0xdice
 
@@ -10,7 +10,7 @@
 
 0xdice is a rising and well-established security researcher, with a proven track record of finding crucial bugs in numerous competitive audits on platforms such as [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), and [Cantina](https://cantina.xyz/opportunities/competitions). He has conducted numerous smart contract audits over the years, delivering in-depth security assessments and safeguarding multiple Web3 protocols across various ecosystems. His work has helped projects strengthen their codebases and mitigate critical vulnerabilities. He is proficient in identifying and exploiting vulnerabilities, with expertise in writing tests.
 
-For private audits, consulting requests or other inquires, please reach out to me via:
+For private audits, consulting requests, or other inquiries, please reach out to me via:
 - Twitter `@0xdice91`
 - Discord `@0xdice91`
 
@@ -20,7 +20,7 @@ For private audits, consulting requests or other inquires, please reach out to m
 |-----:|-----|-----|
 | `Base ~ Code4rena` | low-cost, developer-friendly Ethereum L2 built to bring the next billion users to web3.| [Link](https://code4rena.com/audits/2023-05-base) |
 | `Panoptic ~ Code4rena` | Permissionless, perpetual options trading on any token, any strike, any size. | [Link](https://code4rena.com/audits/2024-04-panoptic) |
-| `Dodo V3 ~ Sherlock` | A leveraged market making solution to minimize IL and improve on liquidity management. The solution provides yield for retail LPs, higher profits for expert LPs, and better liquidity for traders. | [Link](https://audits.sherlock.xyz/contests/89) |
+| `Dodo V3 ~ Sherlock` | A leveraged market-making solution to minimise IL and improve liquidity management. The solution provides yield for retail LPs, higher profits for expert LPs, and better liquidity for traders. | [Link](https://audits.sherlock.xyz/contests/89) |
 | `Ajna Protocol ~ Code4rena` | A peer-to-peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non-fungible tokens as collateral.| [Link](https://code4rena.com/audits/2023-05-ajna-protocol) |
 | `UniStaker Infrastructure ~ Code4rena` | Staking infrastructure to empower Uniswap Governance.| [Link](https://code4rena.com/audits/2024-02-unistaker-infrastructure) |
 | `Noya ~ Code4rena` | NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. | [Link](https://code4rena.com/audits/2024-04-noya) |
@@ -33,6 +33,7 @@ For private audits, consulting requests or other inquires, please reach out to m
 | `DODO Cross-Chain DEX ~ Sherlock` | This contest focuses on the security of DEX built on ZetaChain’s cross-chain infrastructure. | [Link](https://audits.sherlock.xyz/contests/991) |
 | `badger-ebtc-bsm ~ Cantina` | The BSM (eBTC Stability Module) contract facilitates bi-directional exchange between eBTC and other BTC-denominated assets with no slippage. | [Link](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard) |
 | `Brahma ~ Code4rena` | Brahma Console is a custody and DeFi execution environment. | [Link](https://code4rena.com/audits/2023-10-brahma) |
+| `Alchemix-v3 ~ Cantina` | Alchemix lets you instantly access loans representing your collateral's future yield, Alchemix loans are self-repaying, interest-free, and non-liquidating. | [Link](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) |
 
 
 
@@ -41,24 +42,6 @@ For private audits, consulting requests or other inquires, please reach out to m
 
 | Contest | Description | Lang ~ EcoSystem | Report |
 |-----:|----|-----|-----|
-| Airdrop | Scalable Airdrop System Audit Report | Func | [report](https://github.com/shealtielanz/audit-hubz) |
-| `GuardianAudits ~ PariFinance` | A new adaptive pricing framework for perpetual protocols using liquidity curves and on-chain oracles | Solidity | [Link](https://www.notion.so/guardianaudits/PariFi-Defender-Contest-Findings-ce42090f44ed4dd592f7cef2fd80a3d9?pvs=4) |
-| `ShieldifySec ~ Adrastea` | Unlocking the full potential of restaking on Solana through Liquid Restaking Tokens(LRT) built on top of Solayer. | Solana/Rust | [Link](https://github.com/shieldify-security/adrastea-audit/issues) |
-| `Secure3 ~ ZeekNetwork` | NDA | Solana/Rust | NDA |
-| `Secure3 ~ DomiChain AI` | NDA | EVM/Rust | NDA |
-| `Secure3 ~ Ender V1` | NDA | Solidity | NDA |
-| `Secure3 ~ SOEX` | NDA | Solidity | NDA |
-| `Secure3 ~ Klydo` | NDA | Solidity | NDA |
-| `Secure3 ~ Mantle-cmETH` | NDA | Solidity | NDA |
-| `Secure3 ~ TossFun` | NDA | Solidity | NDA |
-| `Secure3 ~ AgniFinance` | NDA | Solidity | NDA |
+| Panoptic  | Permissionless, perpetual options trading on any token, any strike, any size. | Solidity | [link](https://code4rena.com/reports/2024-09-panoptic) |
 
-# Everything Immunefi
-
-| Contest/BB | Description | Lang ~ EcoSystem | Report | Awards | Ranking |
-|-----:|----|-----|-----|-----|-----|
-| `Compound v3` | Compound is a protocol on the Ethereum blockchain that establishes money markets | Solidity | [Link](https://immunefi.com/bug-bounty/compoundfinance/information/) | $1,000 | - |
-| `SwayLend` | Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 | Rust/Sway ~ Fuel | [Link](https://immunefi.com/audit-competition/iop-swaylend/leaderboard/#top) | $20,383 | 1st Position |
-| `SwayLend Frontend` | Swaylend is a leading lending protocol on the Fuel network. This was for the front end | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/swaylend-frontend-iop/?utm_source=explore_results) | $2,000 | 1st Position |
-| `Fluid Protocol` | Fluid Protocol is an over-collateralized, decentralized borrowing platform specifically built for Fuel Network | Rust/Sway ~ Fuel | [Link](https://immunefi.com/bounty/iop-fluid-protocol/?utm_source=explore_results) | $2,921 | 6th Position |
 
