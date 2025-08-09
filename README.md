@@ -1,40 +1,38 @@
 # 0xdice ~ Audit Portfolio 
 - [About 0xdice](https://github.com/shealtielanz/audits/blob/main/README.md#about-shealtielanz)
-- [Contributions to the Web3 Space](https://github.com/shealtielanz/audits/blob/main/README.md#contributions-to-the-web3-space)
 - [Competitive Audits](https://github.com/shealtielanz/audits/blob/main/README.md#competitive-audits)
 - [Private Audits](https://github.com/shealtielanz/audits/blob/main/README.md#private-audits)
 - [Everything Immunefi](https://github.com/shealtielanz/audits/blob/main/README.md#everything-immunefi)
 
 # About 0xdice
-0xdice is an upcoming and well-profounded Security Researcher, winning and coming out top in contests hosted by top platforms by the likes of [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/). He is proficient in Func, SwayLang, Solidity & Rust.
 
-He is well known for his Sway and Rust contributions, creating [Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) to onboard new Security Researchers to the Fuel Blockchain, and his novel Invention of the [Flash Loan Predicate](https://github.com/shealtielanz/Flash_Sync) used in the Fuel Blockchain.
+0xdice is a rising and well-established security researcher, consistently securing top positions in competitions hosted by leading platforms such as [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), and [Cantina](https://cantina.xyz/opportunities/competitions). He is skilled in both Solidity and Rust.
 
-For private audit or consulting requests, please reach out to me via:
-- Twitter `@shealtielanzz`
-- Telegram `@Shealtielanz`
-- Discord `@shealtielanz`
-# Contributions to the Web3 Space
-- [Flash_Sync](https://github.com/shealtielanz/Flash_Sync) ~ Vault Powered by the novel Flash Loan Predicates.
-- [Simply-Sway CTFs](https://github.com/shealtielanz/Simply-Sway-CTFs) ~ Find Bugs in Sway Smart Contracts to build your Rust & Sway Skills.
+0xdice is a rising and well-established security researcher, with a proven track record of finding crucial bugs in numerous competitive audits on platforms such as [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), and [Cantina](https://cantina.xyz/opportunities/competitions). He has conducted numerous smart contract audits over the years, delivering in-depth security assessments and safeguarding multiple Web3 protocols across various ecosystems. His work has helped projects strengthen their codebases and mitigate critical vulnerabilities. He is proficient in identifying and exploiting vulnerabilities, with expertise in writing tests.
+
+For private audits, consulting requests or other inquires, please reach out to me via:
+- Twitter `@0xdice91`
+- Discord `@0xdice91`
+
+
 # Competitive Audits
 | Contest | Description | Leaderboard |
 |-----:|-----|-----|
 | `Base ~ Code4rena` | low-cost, developer-friendly Ethereum L2 built to bring the next billion users to web3.| [Link](https://code4rena.com/audits/2023-05-base) |
-| `PossumAdapters ~ ShieldifySec` | Building immutable DeFi. | [Link](https://x.com/ShieldifySec/status/1788133361917034993) |
-| `USSD ~ Sherlock` | USSD is an autonomous secure dollar that is censorship-resistant, crypto-backed, autonomous, and multi-collateralized.| [Link](https://audits.sherlock.xyz/contests/82) |
+| `Panoptic ~ Code4rena` | Permissionless, perpetual options trading on any token, any strike, any size. | [Link](https://code4rena.com/audits/2024-04-panoptic) |
+| `Dodo V3 ~ Sherlock` | A leveraged market making solution to minimize IL and improve on liquidity management. The solution provides yield for retail LPs, higher profits for expert LPs, and better liquidity for traders. | [Link](https://audits.sherlock.xyz/contests/89) |
 | `Ajna Protocol ~ Code4rena` | A peer-to-peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non-fungible tokens as collateral.| [Link](https://code4rena.com/audits/2023-05-ajna-protocol) |
-| `MaiaDAO EcoSystem ~ Code4rena` | Efficient liquidity renting and management across chains with Curvenized Uniswap V3.| [Link](https://code4rena.com/audits/2023-05-maia-dao-ecosystem) |
+| `UniStaker Infrastructure ~ Code4rena` | Staking infrastructure to empower Uniswap Governance.| [Link](https://code4rena.com/audits/2024-02-unistaker-infrastructure) |
 | `Noya ~ Code4rena` | NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. | [Link](https://code4rena.com/audits/2024-04-noya) |
 | `Chainlink Staking v0.2 ~ Code4rena` | A security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services. | [Link](https://code4rena.com/audits/2024-04-noya) |
-| `Notional Update ~ Sherlock` | Maximum Returns. Minimum Risk. Lend, borrow, and earn leveraged yield with DeFi's leading fixed-rate lending protocol. | [Link](https://audits.sherlock.xyz/contests/119?filter=results) |
-| `RealWagmi ~ Sherlock` | Swap earn and provide liquidity on the leading decentralized protocol built on zkSync. Experience the future of decentralized finance with Wagmi. | [Link](https://audits.sherlock.xyz/contests/88?filter=results) |
-| `Frankencoin ~ Code4rena` | A decentralized and fully collateralized stablecoin. | [Link](https://code4rena.com/audits/2023-04-frankencoin) |
-| `Iron Bank ~ Sherlock` | Iron Bank is a decentralized lending platform focused on capital efficiency allowing protocols and individuals to supply and borrow cryptoassets. | [Link](https://audits.sherlock.xyz/contests/84) |
-| `DODO V3 ~ Sherlock` | A leveraged market-making solution to minimize IL and improve on liquidity management. The solution provides yield for retail LPs, higher profits for expert LPs, and better liquidity for traders. | [Link](https://audits.sherlock.xyz/contests/89?filter=results) |
-| `zkSync era ~ Code4rena` | Future-proof zkEVM on the mission to scale freedom for all. | [Link](https://code4rena.com/audits/2023-10-zksync-era) |
-| `Wise Lending ~ Code4rena` | Decentralized liquidity market that allows users to supply crypto assets and start earning a variable APY from borrowers. | [Link](https://code4rena.com/audits/2024-02-wise-lending) |
-| `Smart Wallet ~ Code4rena` | Smart Wallet from Coinbase Wallet. | [Link](https://code4rena.com/audits/2024-03-smart-wallet) |
+| `Liquidity Management Gamma ~ Codehawks` | The Perpetual Vault Protocol is a decentralised finance (DeFi) system that enables users to engage in leveraged trading on the GMX decentralised exchange.  | [Link](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
+| `RealWagmi ~ Sherlock` | Swap earn and provide liquidity on the leading decentralised protocol built on zkSync. Experience the future of decentralised finance with Wagmi. | [Link](https://audits.sherlock.xyz/contests/88?filter=results) |
+| `Canto Liquidity Mining Protocol ~ Code4rena` | Execution layer for original work. | [Link](https://code4rena.com/audits/2023-10-canto-liquidity-mining-protocol) |
+| `Zaros Part 1 ~ Codehawks` | Zaros is a Perpetuals DEX powered by Boosted (Re)Staking Vaults. | [Link](https://codehawks.cyfrin.io/c/2024-07-zaros) |
+| `Flayer ~ Sherlock` | ƒlayer is a liquidity protocol for NFTs with custom Uniswap V4 hook, donate and pool integrations. This audit is to ensure the absolute security in our codebase for the ƒlayer protocol and the Moongate bridge. | [Link](https://audits.sherlock.xyz/contests/468) |
+| `DODO Cross-Chain DEX ~ Sherlock` | This contest focuses on the security of DEX built on ZetaChain’s cross-chain infrastructure. | [Link](https://audits.sherlock.xyz/contests/991) |
+| `badger-ebtc-bsm ~ Cantina` | The BSM (eBTC Stability Module) contract facilitates bi-directional exchange between eBTC and other BTC-denominated assets with no slippage. | [Link](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard) |
+| `Brahma ~ Code4rena` | Brahma Console is a custody and DeFi execution environment. | [Link](https://code4rena.com/audits/2023-10-brahma) |
 
 
 
