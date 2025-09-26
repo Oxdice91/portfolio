@@ -41,6 +41,6 @@ For private audits, consulting requests, or other inquiries, please reach out to
 
 | Protocol | Description | Lang ~ EcoSystem | Report | Earnings | 
 |-----:|----|-----|-----|-----|
-| Panoptic  | Permissionless, perpetual options trading on any token, any strike, any size. | Solidity | [link](https://code4rena.com/reports/2024-09-panoptic) | $6600 |
+| Panoptic (under Code4rena) | Permissionless, perpetual options trading on any token, any strike, any size. | Solidity | [link](https://code4rena.com/reports/2024-09-panoptic) | $6600 |
 
 
