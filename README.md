@@ -14,14 +14,14 @@ For private audits, consulting requests, or other inquiries, please reach out to
 
 
 # Competitive Audits
-| Contest | Description | Leaderboard |
-|-----:|-----|-----|
-| `Base ~ Code4rena` (with `shealtielanz`) | low-cost, developer-friendly Ethereum L2 built to bring the next billion users to web3.| [Link](https://code4rena.com/audits/2023-05-base) |
-| `Panoptic ~ Code4rena` | Permissionless, perpetual options trading on any token, any strike, any size. | [Link](https://code4rena.com/audits/2024-04-panoptic) |
+| Contest | Description | Leaderboard | Rewards |
+|-----:|-----|-----|-----|
+| `Base ~ Code4rena` (with `shealtielanz`) | low-cost, developer-friendly Ethereum L2 built to bring the next billion users to web3.| [Link](https://code4rena.com/audits/2023-05-base) | ≈ $8000|
+| `Panoptic ~ Code4rena` | Permissionless, perpetual options trading on any token, any strike, any size. | [Link](https://code4rena.com/audits/2024-04-panoptic) | ≈ $8100|
 | `Dodo V3 ~ Sherlock` | A leveraged market-making solution to minimise IL and improve liquidity management. The solution provides yield for retail LPs, higher profits for expert LPs, and better liquidity for traders. | [Link](https://audits.sherlock.xyz/contests/89) |
-| `Ajna Protocol ~ Code4rena` | A peer-to-peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non-fungible tokens as collateral.| [Link](https://code4rena.com/audits/2023-05-ajna-protocol) |
-| `UniStaker Infrastructure ~ Code4rena` | Staking infrastructure to empower Uniswap Governance.| [Link](https://code4rena.com/audits/2024-02-unistaker-infrastructure) |
-| `Noya ~ Code4rena` (with `SeveritySquad`) | NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. | [Link](https://code4rena.com/audits/2024-04-noya) |
+| `Ajna Protocol ~ Code4rena` | A peer-to-peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non-fungible tokens as collateral.| [Link](https://code4rena.com/audits/2023-05-ajna-protocol) | ≈ $1000|
+| `UniStaker Infrastructure ~ Code4rena` | Staking infrastructure to empower Uniswap Governance.| [Link](https://code4rena.com/audits/2024-02-unistaker-infrastructure) | ≈ $1000|
+| `Noya ~ Code4rena` (with `SeveritySquad`) | NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. | [Link](https://code4rena.com/audits/2024-04-noya) | ≈ $2000|
 | `Chainlink Staking v0.2 ~ Code4rena` | A security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services. | [Link](https://code4rena.com/audits/2024-04-noya) |
 | `Liquidity Management Gamma ~ Codehawks` | The Perpetual Vault Protocol is a decentralised finance (DeFi) system that enables users to engage in leveraged trading on the GMX decentralised exchange.  | [Link](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | `RealWagmi ~ Sherlock` | Swap earn and provide liquidity on the leading decentralised protocol built on zkSync. Experience the future of decentralised finance with Wagmi. | [Link](https://audits.sherlock.xyz/contests/88?filter=results) |
@@ -32,15 +32,15 @@ For private audits, consulting requests, or other inquiries, please reach out to
 | `badger-ebtc-bsm ~ Cantina` | The BSM (eBTC Stability Module) contract facilitates bi-directional exchange between eBTC and other BTC-denominated assets with no slippage. | [Link](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard) |
 | `Brahma ~ Code4rena` | Brahma Console is a custody and DeFi execution environment. | [Link](https://code4rena.com/audits/2023-10-brahma) |
 | `Alchemix-v3 ~ Cantina` | Alchemix lets you instantly access loans representing your collateral's future yield, Alchemix loans are self-repaying, interest-free, and non-liquidating. | [Link](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) |
-| `Neutrl Protocol ~ Sherlock` | Neutrl is a market-neutral synthetic dollar designed to unlock untapped yield opportunities in OTC and altcoin markets. | [Link](https://audits.sherlock.xyz/contests/1065) |
+| `Neutrl Protocol ~ Sherlock` | Neutrl is a market-neutral synthetic dollar designed to unlock untapped yield opportunities in OTC and altcoin markets. | [Link](https://audits.sherlock.xyz/contests/1065) | ≈ $1000 |
 
 
 
 
 # Private Audits
 
-| Protocol | Description | Lang ~ EcoSystem | Report |
-|-----:|----|-----|-----|
-| Panoptic  | Permissionless, perpetual options trading on any token, any strike, any size. | Solidity | [link](https://code4rena.com/reports/2024-09-panoptic) |
+| Protocol | Description | Lang ~ EcoSystem | Report | Earnings | 
+|-----:|----|-----|-----|-----|
+| Panoptic  | Permissionless, perpetual options trading on any token, any strike, any size. | Solidity | [link](https://code4rena.com/reports/2024-09-panoptic) | $6600 |
 
 
