@@ -6,9 +6,7 @@
 
 # About 0xdice
 
-0xdice is a rising and well-established security researcher, consistently securing top positions in competitions hosted by leading platforms such as [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), and [Cantina](https://cantina.xyz/opportunities/competitions). He is skilled in both Solidity and Rust.
-
-0xdice is a rising and well-established security researcher, with a proven track record of finding crucial bugs in numerous competitive audits on platforms such as [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), and [Cantina](https://cantina.xyz/opportunities/competitions). He has conducted numerous smart contract audits over the years, delivering in-depth security assessments and safeguarding multiple Web3 protocols across various ecosystems. His work has helped projects strengthen their codebases and mitigate critical vulnerabilities. He is proficient in identifying and exploiting vulnerabilities, with expertise in writing tests.
+0xdice is a rising and well-established security researcher skilled in Solidity and Rust, with a proven track record of finding crucial bugs in numerous competitive audits on platforms such as [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), and [Cantina](https://cantina.xyz/opportunities/competitions). He has conducted numerous smart contract audits over the years, delivering in-depth security assessments and safeguarding multiple Web3 protocols across various ecosystems. His work has helped projects strengthen their codebases and mitigate critical vulnerabilities. He is proficient in identifying and exploiting vulnerabilities, with expertise in writing tests.
 
 For private audits, consulting requests, or other inquiries, please reach out to me via:
 - Twitter `@0xdice91`
@@ -34,13 +32,14 @@ For private audits, consulting requests, or other inquiries, please reach out to
 | `badger-ebtc-bsm ~ Cantina` | The BSM (eBTC Stability Module) contract facilitates bi-directional exchange between eBTC and other BTC-denominated assets with no slippage. | [Link](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard) |
 | `Brahma ~ Code4rena` | Brahma Console is a custody and DeFi execution environment. | [Link](https://code4rena.com/audits/2023-10-brahma) |
 | `Alchemix-v3 ~ Cantina` | Alchemix lets you instantly access loans representing your collateral's future yield, Alchemix loans are self-repaying, interest-free, and non-liquidating. | [Link](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) |
+| `Neutrl Protocol ~ Sherlock` | Neutrl is a market-neutral synthetic dollar designed to unlock untapped yield opportunities in OTC and altcoin markets. | [Link](https://audits.sherlock.xyz/contests/1065) |
 
 
 
 
 # Private Audits
 
-| Contest | Description | Lang ~ EcoSystem | Report |
+| Protocol | Description | Lang ~ EcoSystem | Report |
 |-----:|----|-----|-----|
 | Panoptic  | Permissionless, perpetual options trading on any token, any strike, any size. | Solidity | [link](https://code4rena.com/reports/2024-09-panoptic) |
 
