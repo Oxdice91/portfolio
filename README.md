@@ -33,6 +33,7 @@ For private audits, consulting requests, or other inquiries, please reach out to
 | `Brahma ~ Code4rena` | Brahma Console is a custody and DeFi execution environment. | [Link](https://code4rena.com/audits/2023-10-brahma) |
 | `Alchemix-v3 ~ Cantina` | Alchemix lets you instantly access loans representing your collateral's future yield, Alchemix loans are self-repaying, interest-free, and non-liquidating. | [Link](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) |
 | `Neutrl Protocol ~ Sherlock` | Neutrl is a market-neutral synthetic dollar designed to unlock untapped yield opportunities in OTC and altcoin markets. | [Link](https://audits.sherlock.xyz/contests/1065) | ≈ $1000 |
+| `Avon ~ Cantina` | Avon is building an entirely new way to borrow and lend on chain via lending infrastructure designed for efficiency, composability, and real-time dynamics. | [Link](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/overview) | ≈ $1000 |
 
 
 
